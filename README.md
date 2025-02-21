@@ -69,7 +69,7 @@ Hi! I'm **Agustin**, a **biochemist** turned **data enthusiast**. Over the past 
 ### 🗄 Database Schema
 The relational model of the credit card company's database:
 
-![Database Schema](database_schema.png)
+![Database Schema](Project_images/database_schema.png)
 
 ### 🔄 Airflow Task Execution
 Below are the Airflow execution patterns for daily transactions and monthly churn predictions:
