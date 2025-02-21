@@ -75,10 +75,10 @@ The relational model of the credit card company's database:
 Below are the Airflow execution patterns for daily transactions and monthly churn predictions:
 
 **Daily Transactions Execution:**
-![Daily Transactions](create_daily_consumptions.jpg)
+![Daily Transactions](Project_images/create_daily_consumptions.jpg)
 
 **Monthly Churn Prediction Execution:**
-![Monthly Churn Prediction](predict_monthly_churn.jpg)
+![Monthly Churn Prediction](Project_images/predict_monthly_churn.jpg)
 
 ---
 
