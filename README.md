@@ -85,6 +85,9 @@ Below are the Airflow execution patterns for daily transactions and monthly chur
 **Monthly Churn Prediction Execution:**
 ![Monthly Churn Prediction](Project_images/predict_monthly_churn.jpg)
 
+**Monthly Report Generation**
+![Monthly Churn Prediction](Project_images/generate_monthly_report.jpg
+
 ---
 **For further specific details on the project check the documentation!** 
 
