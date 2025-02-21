@@ -35,7 +35,8 @@ Hi! I'm **Agustin**, a **biochemist** turned **data enthusiast**. Over the past 
      the former are generated between day 1 and day 20 of each month.
      
 🔹 **Monthly:**
-   - Payments are processed.
+   - Payments are processed. They are generated with a date ranging from the last day of the month up to 10 days backwards
+     ensuring that the consumption date is never later than the payment date.
    - Customer consumption & payment patterns analyzed.
    - Machine Learning model predicts churn risk.
    - PDF reports are generated automatically.
