@@ -1,6 +1,5 @@
 # End_to_end_data_project
 This project consists in an automated workflow to create a synthetic database in MySQL, simulating the database of a credit card company,  extract data on a monthly basis and predict clients with a churn profile.
-
 # 🏦 Credit Card Transaction Simulation & Churn Prediction
 
 ## 📌 Project Overview
@@ -67,10 +66,19 @@ Hi! I'm **Agustin**, a **biochemist** turned **data enthusiast**. Over the past 
 
 ## 📈 Visual Representation
 
-📊 **Database Schema** (Simplified Diagram)  
-📌 **Example Churn Prediction Graph**  
-📃 **Sample PDF Report Screenshot**  
-*(Consider adding these visuals to enhance the impact!)*
+### 🗄 Database Schema
+The relational model of the credit card company's database:
+
+![Database Schema](database_schema.png)
+
+### 🔄 Airflow Task Execution
+Below are the Airflow execution patterns for daily transactions and monthly churn predictions:
+
+**Daily Transactions Execution:**
+![Daily Transactions](create_daily_consumptions.jpg)
+
+**Monthly Churn Prediction Execution:**
+![Monthly Churn Prediction](predict_monthly_churn.jpg)
 
 ---
 
@@ -89,5 +97,4 @@ This project is licensed under the **MIT License**.
 ## 📧 Contact
 
 For any questions or collaborations, reach out to me on **[LinkedIn/GitHub]**!
-
 
