@@ -33,6 +33,7 @@ Hi! I'm **Agustin**, a **biochemist** turned **data enthusiast**. Over the past 
    - Simulated credit card transactions (via Airflow).
    - In order to avoid conflicting issues regarding the time of consumptions and payments,
      the former are generated between day 1 and day 20 of each month.
+     
 🔹 **Monthly:**
    - Payments are processed.
    - Customer consumption & payment patterns analyzed.
