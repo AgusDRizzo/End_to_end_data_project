@@ -29,12 +29,16 @@ Hi! I'm **Agustin**, a **biochemist** turned **data enthusiast**. Over the past 
    - **Other Clients (80%)**: Carry varying debt month to month.  
 
 ### **Step 2: Maintain Database**
-🔹 **Daily:** Simulated credit card transactions (via Airflow).  
+🔹 **Daily:** 
+   - Simulated credit card transactions (via Airflow).
+   - In order to avoid conflicting issues regarding the time of consumptions and payments,
+     the former are generated between day 1 and day 20 of each month.
 🔹 **Monthly:**
    - Payments are processed.
    - Customer consumption & payment patterns analyzed.
    - Machine Learning model predicts churn risk.
    - PDF reports are generated automatically.
+   - All this tasks are executed the last day of each month.
 
 ---
 
@@ -81,6 +85,7 @@ Below are the Airflow execution patterns for daily transactions and monthly chur
 ![Monthly Churn Prediction](Project_images/predict_monthly_churn.jpg)
 
 ---
+**For further specific details on the project check the documentation!** 
 
 ## 🤝 Contributing
 
