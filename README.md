@@ -98,9 +98,7 @@ Interested in improving this project? Feel free to open an issue or submit a pul
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
 
 ---
 
