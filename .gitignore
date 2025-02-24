@@ -1,0 +1,8 @@
+logs
+schemas
+plugins
+__pycache__
+.venv
+MOCK_DATA_*
+ML_DATA*
+report*
